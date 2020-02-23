@@ -7,6 +7,7 @@ body {
 }
 .title {
 	text-align: center;
+	font-size: 18px;
 }
 .blue-box {
 	width: 100%;
@@ -21,6 +22,7 @@ body {
 	background-color: white;
 	border:4px solid #0071BC;
 	padding: 2%
+
 }
 .box1 {
 	width: 100%;
