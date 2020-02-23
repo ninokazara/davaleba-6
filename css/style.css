@@ -26,71 +26,75 @@ body {
 }
 .box1 {
 	width: 100%;
-	height: 35%;
+	height: 40%;
 	background-color: #304A67;
 	border:4px solid #0071BC;
 }
 .box2 {
 	width: 100%;
-	height: 40%;
+	height: 56%;
 	background-color: #304A67;
 	border:4px solid #0071BC;
-	margin-top: 5%;
+	margin-top: 2%;
 }
 .smallbox1 {
 	width: 15%;
-	height: 40%;
+	height: 45%;
 	background-color: white;
-	border:2px solid #93278F;
+	border: 2px solid #93278F;
+	padding: 2%;
 	display: inline-block;
-	margin: 2% 2% 2% 2%;
-	
+	margin: 5% 5% 5% 2%;	
 }
 .smallbox2 {
 	width: 15%;
-	height: 40%;
+	height: 45%;
 	background-color: white;
-	border:2px solid #93278F;
+	border: 2px solid #93278F;
+	padding: 2%;
 	display: inline-block;
-	margin: 2% 2% 2% 2%;
+	margin: 5% 5% 5% 5%;
+	
 }
 .smallbox3 {
 	width: 15%;
-	height: 40%;
+	height: 45%;
 	background-color: white;
 	border:2px solid #93278F;
+	padding: 2%;
 	display: inline-block;
-	margin: 2% 2% 2% 2%;
+	margin: 5% 5% 5% 5%;
 }
 .smallbox4 {
 	width: 15%;
-	height: 40%;
+	height: 45%;
 	background-color: white;
 	border:2px solid #93278F;
+	padding: 2%;
 	display: inline-block;
-	margin: 2% 2% 2% 2%;
+	margin: 5% 5% 5% 5%;
 }
 .little-box1 {
-	width: 90%;
-	height: 85%;
+	width: 100%;
+	height: 100%;
 	background-color: #75B3F9;
 	margin: 2% 2% 2% 2%;
 }
 .little-box2 {
-	width: 90%;
-	height: 85%;
+	width: 100%;
+	height: 100%;
 	background-color: #75B3F9;
 	margin: 2% 2% 2% 2%;
 }
 .little-box3 {
-	width: 90%;
-	height: 85%;
+	width: 100%;
+	height: 100%;
 	background-color: #75B3F9;
 	margin: 2% 2% 2% 2%;
 }
 .little-box4 {
-	width: 90%;
-	height: 85%;
+	width: 100%;
+	height: 100%;
 	background-color: #75B3F9;
 	margin: 2% 2% 2% 2%;
 }
